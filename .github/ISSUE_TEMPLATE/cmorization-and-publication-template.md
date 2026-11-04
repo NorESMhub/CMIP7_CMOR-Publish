@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Cmorization and Publication Template
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
@@ -12,10 +12,10 @@ assignees: ''
 #experiment_id
 #model_id
 #CASENAME(s) and years to be CMORized
-
-#Optional information
 #parent_experiment_id
 #parent_experiment_rip
 #parent_time_units
 #branch_method
+
 #other information
+#cmor tag version (decided by who is doing CMORization should be the date CMOR run and for first run it should be same for All components)
