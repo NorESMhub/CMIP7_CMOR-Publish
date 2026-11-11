@@ -11,7 +11,8 @@ assignees: ''
 **Full path to the case(s) of the experiment on NIRD**
 **experiment_id**
 **model_id**
-**CASENAME(s) and years to be CMORized**
+**experiment_rip**
+**Years to be CMORized**
 **parent_experiment_id**
 **parent_experiment_rip**
 **parent_time_units**
