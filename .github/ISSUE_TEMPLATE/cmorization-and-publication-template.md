@@ -7,15 +7,15 @@ assignees: ''
 
 ---
 
-#Mandatory information:
-#Full path to the case(s) of the experiment on NIRD
-#experiment_id
-#model_id
-#CASENAME(s) and years to be CMORized
-#parent_experiment_id
-#parent_experiment_rip
-#parent_time_units
-#branch_method
+**Mandatory information:**
+**Full path to the case(s) of the experiment on NIRD**
+**experiment_id**
+**model_id**
+**CASENAME(s) and years to be CMORized**
+**parent_experiment_id**
+**parent_experiment_rip**
+**parent_time_units**
+**branch_method**
 
 #other information
 #cmor tag version (decided by who is doing CMORization should be the date CMOR run and for first run it should be same for All components)
